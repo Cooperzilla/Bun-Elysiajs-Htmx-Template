@@ -1,0 +1,16 @@
+{
+  "name": "bun-elysiajs-htmx-template",
+  "module": "sec/index.jsx",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.7.3",
+    "elysia": "^0.7.21",
+    "htmx": "^0.0.2"
+  }
+}
